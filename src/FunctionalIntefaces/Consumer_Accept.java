@@ -2,7 +2,7 @@ package FunctionalIntefaces;
 
 import java.util.function.Consumer;
 
-public class AcceptFun 
+public class Consumer_Accept 
 {
 	public static void main(String[] args) 
 	{

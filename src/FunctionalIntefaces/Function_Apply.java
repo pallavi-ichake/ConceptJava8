@@ -2,7 +2,7 @@ package FunctionalIntefaces;
 
 import java.util.function.Function;
 
-public class FunctionalFun 
+public class Function_Apply 
 {
 	public static void main(String[] args) 
 	{

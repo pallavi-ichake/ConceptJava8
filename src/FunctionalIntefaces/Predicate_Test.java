@@ -2,7 +2,7 @@ package FunctionalIntefaces;
 
 import java.util.function.Predicate;
 
-public class PredicateFun
+public class Predicate_Test
 {
 	public static void main(String[] args)
 	{
